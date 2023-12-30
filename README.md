@@ -35,7 +35,7 @@ The purpose of this test function is to validate the functionality of the `stude
 
 To run the tests, use the [pytest](https://docs.pytest.org/en/stable/) framework. If you don't have it installed, you can do so by running:
 
-```bash
+
 pip install pytest
 
 After installing pytest, you can execute the tests by running the following command in the terminal:
