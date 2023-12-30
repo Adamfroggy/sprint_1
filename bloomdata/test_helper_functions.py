@@ -13,4 +13,3 @@ def test_random_phrase():
     assert type(hf.random_phrase(list1, list2)) == str
     assert hf.random_phrase(['Adam'], ['Frawley']) == 'Adam Frawley'
     assert hf.random_phrase([3], [4]) == '3 4'
-    

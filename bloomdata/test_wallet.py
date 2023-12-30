@@ -9,6 +9,8 @@ def empty_wallet():
     return Wallet()
 
 # @ sign is a 'decorator'
+
+
 @pytest.fixture
 def wallet_20():
     return Wallet(20)
