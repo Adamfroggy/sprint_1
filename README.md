@@ -1,4 +1,4 @@
-# Adamfroggy's Student codes & BloomData Tests
+# Adamfroggy's Student coding & BloomData Tests
 
 This repository contains test functions for a set of classes and functions implemented in the `student.py` file. The primary purpose is to ensure the proper functionality of the code related to student information.
 
